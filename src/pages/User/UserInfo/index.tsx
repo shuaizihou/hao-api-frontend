@@ -5,7 +5,7 @@ import {
 } from '@/services/api-backend/userController';
 import {values} from 'lodash';
 import {Button} from 'antd';
-export const HaoAPI_CLIENT_SDK = ""
+export const HaoAPI_CLIENT_SDK = "https://github.com/shuaizihou/hao-api-backend/tree/master/hao-api-client-sdk"
 
 /**
  * 个人中心
